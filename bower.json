@@ -1,0 +1,26 @@
+{
+  "name": "peixelaranja-js",
+  "version": "0.0.1",
+  "authors": [
+    "damiansb <damiansb@gmail.com>"
+  ],
+  "description": "Custom Javascript/jQuery library",
+  "main": "peixelaranja.js",
+  "keywords": [
+    "javascript",
+    "jquery",
+    "lib"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.peixelaranja.com.br",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
